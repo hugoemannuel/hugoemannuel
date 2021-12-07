@@ -1,6 +1,6 @@
 ### hello, i'm Hugo Emannuel
 
-- 🌱 I study web development with javaScript
+- 📕 I study web development with javaScript
 
 <div align="center">
   <a href="https://github.com/Hugoe-Emannuel">
