@@ -4,7 +4,7 @@
 - 🌱 work with react js and with typeScript
 
 <div align="center">
-  <a href="https://github.com/Hugoe-Emannuel">
+  <a href="https://github.com/hugoemannuel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoemannuel
 &show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoemannuel
