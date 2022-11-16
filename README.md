@@ -5,10 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/hugoemannuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoemannuel
-&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoemannuel
-l&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugoemannuel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoemannuel&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div  align="center" style="display: inline_block"><br>
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
